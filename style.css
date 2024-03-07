@@ -1,0 +1,44 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+.title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.bio{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.img{
+   float: right;
+   margin: 5px;
+   border-radius: 10vw;
+    
+    
+}
+.sec{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin: 90px;
+    
+    
+
+}
+.about{
+ font-family: "Ubuntu", sans-serif;
+
+}
+.qt{
+    font-size: 25px;
+}
+a:hover{
+    background-color: yellow;
+}
